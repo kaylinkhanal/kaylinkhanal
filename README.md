@@ -5,7 +5,7 @@ I am a fullstack JavaScript developer and am open for freelance/collaboration fo
 
 [![Kaylin's github stats](https://github-readme-stats.vercel.app/api?username=kaylinkhanal)](https://github.com/kaylinkhanal/github-readme-stats)
 
-- 🔭 I’m currently working on ... Ecommerce React Native Projects
+- 🔭 I’m currently working on ... React Native Projects(Airlines app)
 - 🌱 I’m currently learning ... Deno
 - 👯 I’m looking to collaborate on ... React projects
 - 📫 How to reach me: ... @kyalin.jpg [instagram] or mail me at kaylinthecoder@gmail.com
